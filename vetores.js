@@ -1,6 +1,8 @@
 // Criando um vetor vazio
 let nomes = []
 
+nomes.push("teste")
+
 // Inserir um nome no vetor 
 nomes.push("Cleitosbaldo")
 
